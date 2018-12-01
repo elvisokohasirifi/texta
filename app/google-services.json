@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396989358460",
+    "firebase_url": "https://texta-4c246.firebaseio.com",
+    "project_id": "texta-4c246",
+    "storage_bucket": "texta-4c246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396989358460:android:e74f56be24216259",
+        "android_client_info": {
+          "package_name": "com.example.frederick.texta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396989358460-m77b338e7hmiq587dn1mint3uk9khke9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frederick.texta",
+            "certificate_hash": "b59c0f1e054f8a0533ac3d31541abf2b6710ca50"
+          }
+        },
+        {
+          "client_id": "396989358460-2pjk3sclg8g7us546bp8650qlgai8m21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5o5l-MMTmTHCuSpkra3Nq3Ws4BmMd54c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396989358460-2pjk3sclg8g7us546bp8650qlgai8m21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
